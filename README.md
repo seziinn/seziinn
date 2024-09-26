@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a freshman cs student at Bilkent University.
 <!--
 **seziinn/seziinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
